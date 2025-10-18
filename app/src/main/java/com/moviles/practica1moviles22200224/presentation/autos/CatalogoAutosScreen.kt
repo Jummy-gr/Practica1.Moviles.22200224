@@ -67,7 +67,6 @@ val autosDeportivos = listOf(
     )
 )
 
-
 @Composable
 fun CatalogoAutosScreen(navController: NavController) {
     val totalPrecios = autosDeportivos.sumOf { it.precio }

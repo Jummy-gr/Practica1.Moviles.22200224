@@ -25,7 +25,7 @@ fun MenuScreen(navController: NavController) {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Text(
-            text = "Menú Principal - Examen DAM",
+            text = "Menú Principal - PC1 DAM",
             style = androidx.compose.material3.MaterialTheme.typography.headlineMedium
         )
 
